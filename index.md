@@ -9,39 +9,39 @@ This Privacy Policy explains how we collect, use, and protect your information.
 1. Information We Collect
 We collect and process the following information:
 
-Personal Information: Name, email, phone number, and RFC (Registro Federal de Contribuyentes)
+- Personal Information: Name, email, phone number, and RFC (Registro Federal de Contribuyentes)
 
-Work-related Data: Attendance, payroll summaries, vacation days (provided by your employer)
+- Work-related Data: Attendance, payroll summaries, vacation days (provided by your employer)
 
-Device & Technical Data: Device model, OS version, crash logs, and performance data
+- Device & Technical Data: Device model, OS version, crash logs, and performance data
 
-Location Data (only when enabled): Used for geolocation-based clock-in/out
+- Location Data (only when enabled): Used for geolocation-based clock-in/out
 
 We do not collect any personal or sensitive information without your knowledge or consent.
 
 2. How We Use Your Information
 We use your information to:
 
-Authenticate and verify user access
+- Authenticate and verify user access
 
-Display your employee-related data securely
+- Display your employee-related data securely
 
-Enable location-based clock-in/out (if used by your employer)
+- Enable location-based clock-in/out (if used by your employer)
 
-Improve app performance and detect issues
+- Improve app performance and detect issues
 
-Comply with legal obligations
+- Comply with legal obligations
 
 3. Data Sharing and Disclosure
 We do not sell or rent your personal data.
 
 Your data may only be shared with:
 
-Your employer, for authorized usage (attendance, payroll, etc.)
+- Your employer, for authorized usage (attendance, payroll, etc.)
 
-Trusted third-party services (e.g., analytics or backend systems used for app functionality)
+- Trusted third-party services (e.g., analytics or backend systems used for app functionality)
 
-Authorities, only when legally required
+- Authorities, only when legally required
 
 All data sharing is secured, limited in scope, and aligned with applicable privacy regulations.
 
@@ -51,22 +51,22 @@ We retain your data only as long as necessary for the purposes outlined above or
 5. Your Rights and Choices
 You may have the right to:
 
-Access, update, or correct your personal data
+- Access, update, or correct your personal data
 
-Request deletion of your data, subject to employer or legal obligations
+- Request deletion of your data, subject to employer or legal obligations
 
-Withdraw consent for location-based or other optional features
+- Withdraw consent for location-based or other optional features
 
 To exercise any of these rights, please contact your employer or email us at: support@esclaro.com.mx.
 
 6. Data Security
 We take data protection seriously and apply industry-standard security practices including:
 
-End-to-end encrypted communication
+- End-to-end encrypted communication
 
-Secure storage and access controls
+- Secure storage and access controls
 
-Regular security audits
+- Regular security audits
 
 Despite these measures, no system is 100% secure. Use the app responsibly and report any security issues to us.
 
