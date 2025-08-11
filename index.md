@@ -57,7 +57,7 @@ You may have the right to:
 
 - Withdraw consent for location-based or other optional features
 
-To exercise any of these rights, please contact your employer or email us at: support@esclaro.com.mx.
+To exercise any of these rights, please contact your employer or email us at: sebastian.angulo@digi-kron.com.
 
 6. Data Security
 We take data protection seriously and apply industry-standard security practices including:
@@ -80,5 +80,5 @@ We may update this Privacy Policy occasionally. When we do, we will revise the "
 If you have questions or concerns about this Privacy Policy, contact us at:
 
 EsClaro App Team
-Email: support@esclaro.com.mx
+Email: sebastian.angulo@digi-kron.com
 Website: https://www.esclaromx.com.mx
